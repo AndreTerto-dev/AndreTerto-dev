@@ -23,9 +23,9 @@
 <div align="center">
   <h3>🧰 Tech Stack</h3>
 
-  <img src="https://skillicons.dev/icons?i=php,laravel,git,postman,docker,postgresql,mysql&perline=15" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,python,fastapi,git,postman,docker,postgresql,mysql&perline=15" />
   <br><br>
-  <img src="https://skillicons.dev/icons?i=javascript,html,css,react,typescript,nextjs,figma&perline=15" />
+  <img src="https://skillicons.dev/icons?i=javascript,html,css,react,typescript,figma&perline=15" />
   <br><br>
 </div>
 
